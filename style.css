@@ -1,0 +1,61 @@
+body {
+    background-color: #90EE90;
+}
+
+h2 {
+    color: yellow;
+}
+
+hr {
+    height: 2px;
+    border-width: 0;
+    background-color: yellow;
+    color: yellow;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    text-align: justify;
+}
+
+.tabla {
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.oszlop1 {
+    padding-left: 55px;
+}
+
+.sarga {
+    background-color: yellow;
+}
+
+.pulik {
+    display: inline-block;
+}
+
+.nagybetus {
+    text-transform: uppercase;
+}
+
+.jobbkep {
+    padding-left: 20px;
+    height: 120px;
+    float: right;
+}
+
+.jobbra {
+    float: right;
+}
+
+.kozepre {
+    margin-left: 250px;
+}
+
+.menu2 {
+    padding-left: 350px;
+}
